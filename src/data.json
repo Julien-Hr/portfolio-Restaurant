@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "category": "repas",
+    "title": "Burger",
+    "image": "images/repas/burger.jpg",
+    "description": "Un hamburger composé de oeuf, bacon, steak, salade, oignons...",
+    "price": 700
+  },
+  {
+    "id": 2,
+    "category": "repas",
+    "title": "Cote de boeuf",
+    "image": "images/repas/coteBoeuf.jpg",
+    "description": "Une cote de boeuf de 800 grammes, accompagnement aux choix (frite, légume, potatoes)...",
+    "price": 1200
+  },
+  {
+    "id": 20,
+    "category": "repas",
+    "title": "Spaghetti à la Bolognaise",
+    "image": "images/repas/bolognese.jpg",
+    "description": "Spaghetti à la Bolognaise onctueuse. ",
+    "price": 800
+  },
+  {
+    "id": 3,
+    "category": "repas",
+    "title": "Porc Croustillant",
+    "image": "images/repas/porcCrispy.jpg",
+    "description": "Un porc croustillant avec un accompagnement riz + sauce sucré salé.",
+    "price": 1150
+  },
+  {
+    "id":4,
+    "category": "repas",
+    "title": "Sushi",
+    "image": "images/repas/sushi.jpg",
+    "description": "Plateau varié de sushi, sashimi, nigiri sake, futomaki.",
+    "price": 1850
+  },
+  {
+    "id":5,
+    "category": "repas",
+    "title": "Pizza",
+    "image": "images/repas/pizza.jpg",
+    "description": "Pizza créole en 33 cm, tomate, oignon, jambon, poivron, olive...",
+    "price": 1550
+  },
+  {
+    "id":6,
+    "category": "repas",
+    "title": "Ramen crevettes",
+    "image": "images/repas/ramen-crevette.jpg",
+    "description": "Ramen japonnais au crevette.",
+    "price": 1050
+  },
+  {
+    "id":7,
+    "category": "repas",
+    "title": "Poulet au citron",
+    "image": "images/repas/pouletCitron.jpg",
+    "description": "Poulet au citron avec un accompagnement riz et lentille de cilaos.",
+    "price": 850
+  },
+  {
+    "id":8,
+    "category": "entree",
+    "title": "Cheese Stick",
+    "image": "images/entree/CheeseStick.jpg",
+    "description": "Batonnêt de fromage frie. (x8)",
+    "price": 450
+  },
+  {
+    "id":9,
+    "category": "entree",
+    "title": "Onions Rings",
+    "image": "images/entree/onionRings.jpg",
+    "description": "Oignons fries au fromage. (x8)",
+    "price": 650
+  },
+  {
+    "id":10,
+    "category": "entree",
+    "title": "Pain toasté",
+    "image": "images/entree/painToaste.jpg",
+    "description": "Pain toasté au thon avec une sauce au tomate. (x5)",
+    "price": 850
+  },
+  {
+    "id":11,
+    "category": "entree",
+    "title": "Cuisse de poulet fries",
+    "image": "images/entree/chikenfried.jpg",
+    "description": " Cuisse de poulet frie avec une sauces au choix. (x6)",
+    "price": 950
+  },
+  {
+    "id":12,
+    "category": "boisson",
+    "title": "Ice Tea",
+    "image": "images/boisson/iceTea.jpg",
+    "description": "Ice tea citron.",
+    "price": 250
+  },
+  {
+    "id":13,
+    "category": "boisson",
+    "title": "Coca Cola zéro",
+    "image": "images/boisson/coca0.jpg",
+    "description": "Coca cola zéro glacé",
+    "price": 300
+  },
+  {
+    "id":14,
+    "category": "boisson",
+    "title": "Cappuccino",
+    "image": "images/boisson/cappuccino.jpg",
+    "description": "Cappuccino.",
+    "price": 400
+  },
+  {
+    "id":15,
+    "category": "boisson",
+    "title": "Chaucolat chaud",
+    "image": "images/boisson/hotChocolat.jpg",
+    "description": "Chocolat chaud.",
+    "price": 400
+  },
+  {
+    "id":16,
+    "category": "dessert",
+    "title": "Glace au chocolat Oréo",
+    "image": "images/dessert/iceCreamOreo.jpg",
+    "description": "Glace au chocolat garni d'oréo.",
+    "price": 700
+  },
+  {
+    "id":17,
+    "category": "dessert",
+    "title": "Glace à la vanille",
+    "image": "images/dessert/iceCreamCaram.jpg",
+    "description": "Glace à la vanille avec un coulis de caramel.",
+    "price": 700
+  },
+  {
+    "id":18,
+    "category": "dessert",
+    "title": "Tarte aux framboise",
+    "image": "images/dessert/framboise.jpg",
+    "description": "Tarte vegan à la framboise.",
+    "price": 650
+  },
+  {
+    "id":19,
+    "category": "dessert",
+    "title": "Donnuts",
+    "image": "images/dessert/donuts.jpg",
+    "description": "Assiete de donuts au chocolat, caramel, et vanille.",
+    "price": 880
+  }
+  
+]
