@@ -149,7 +149,7 @@ function App() {
           <div className="flex flex-col max-h-screen w-full ">
             <div>
               <div className="grid grid-cols-3 justify-around content-center p-2 ">
-                <h1 className="col-start-2 flex self-center justify-center text-4xl font-anton font-medium text-red-600">
+                <h1 className="col-start-2 flex self-center justify-center text-4xl font-anton font-medium text-black">
                   Restaurant
                 </h1>
 
